@@ -1,9 +1,14 @@
 # ND-Cpp-ChatBot
-A ChatBot application which uses wxWdigets and C++
+### *A ChatBot application which uses wxWdigets and C++*
 
-NOTE:- README under construction
+***
 
-ChatBot Udacity project for Windows OS. CMake, Visual Studio 2019 and Powershell should be installed on the system.
+<ins>**Description:**</ins>
+
+A Memory-Management Chatbot application which uses **C++17** and **wxWidgets** to display information in a graphical application using user input as keywords.
+This project is my submission for the [Udacity Project](https://github.com/udacity/CppND-Memory-Management-Chatbot) which requires writing C++ code for efficient usage of stack and heap memory, implementatation of memeory management techniques usch as Rule of Five, usage of smart pointers, etc. to optimize the performance of the Chatbot application.  
+
+This project uses the [wxWidgets](https://www.wxwidgets.org/) library, which is a cross-platfrom GUI library.
 
 Instructions:
 - Clone this project using `git clone https://github.com/CybernetHacker14/ND-Cpp-ChatBot`
