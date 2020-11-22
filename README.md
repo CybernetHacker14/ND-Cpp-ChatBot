@@ -1,5 +1,5 @@
 # ND-Cpp-ChatBot
-### *A ChatBot application which uses wxWdigets and C++*
+### *A ChatBot application which uses wxWidgets and C++*
 
 ***
 
