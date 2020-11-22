@@ -17,8 +17,7 @@ This project already has the libraries and the cmake file is edited to find the 
 
 <ins>**Cloning:**</ins>
 
-Clone this project to a local destination using git :  
-`git clone https://github.com/CybernetHacker14/ND-Cpp-ChatBot`  
+Clone this project to a local destination using git : `git clone https://github.com/CybernetHacker14/ND-Cpp-ChatBot`  
 
 ***
 
