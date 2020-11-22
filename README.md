@@ -34,7 +34,7 @@ In order to generate the solution files, the following softwares need to be inst
 
 <ins>**Installation:**</ins>
 
-1. Create a folder named '_solutiondir' in the outermost level of the repo, where the src and CMakeLists.txt files exists.
+1. Create a folder named `_solutiondir` in the outermost level of the repo, where the src and CMakeLists.txt files exists.
 2. Open a Powershell window inside the `_solutiondir` folder and execute the command `cmake ..` which will generate Visual Studio project and solution files.
 3. On running the application inside Visual Studio, the application will crash, hence to make it work, copy the `.dll` files inside the `bin` folder to the output directory - where the `.exe` file exists.
 
